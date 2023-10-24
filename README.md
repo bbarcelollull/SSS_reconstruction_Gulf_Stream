@@ -8,3 +8,5 @@ This repository contains the codes used to conduct the study of Barceló-Llull, 
   - `sim_Oleander_backward_altimetry_Bigger_Domain_dt.ipynb`: Oleander simulations.
   - `sim_weekly_backward_altimetry_Bigger_Domain_nrt_dates_corrected.ipynb`: weekly simulations for the dates in which only near-real-time altimetry data was available.
   - `sim_weekly_backward_altimetry_Bigger_Domain_dt.ipynb`: weekly simulations for the dates in which delayed-time altimetry data was available.
+  - `sim_Oleander_backward_Oscar_check_bigger_domain_1day.ipynb`: test of a simulation using Oscar currents.
+    
