@@ -15,6 +15,6 @@ This repository contains the codes used to conduct the study of Barceló-Llull, 
 
 - `analysis_weekly_simulations/`:  codes for the analysis of the weekly set of simulations.
 
-- `analysis_test_Oscar_currents/`:  codes for the analysis of the simulations done with Oscar currents (it is a test).
+- `analysis_test_Oscar_currents/`:  codes for the analysis of the simulation done with Oscar currents (it is a test).
 
 - `generate_additional_figures/`:  codes to create figures 1 and 2 of the paper.
