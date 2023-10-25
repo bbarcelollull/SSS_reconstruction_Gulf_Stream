@@ -13,14 +13,14 @@ This repository contains the codes used to conduct the study of Barceló-Llull, 
     
 - `analysis_Oleander_simulations/`:  codes for the analysis of the Oleander set of simulations.
   
-  - `sim_Oleander_BiggerDomain_all_step1_tag_SSS_to_particles_final.py`:
-  - ``:
-  - ``:
-  - ``:
-  - ``:
-  - ``:
-  - ``:
-  - ``:
+  - `sim_Oleander_BiggerDomain_all_step1_tag_SSS_to_particles_final.py`: Tag SSS from SMAP to each particle at T0 of the backward simulation.
+  - `sim_Oleander_BiggerDomain_all_step2_comp_with_TSG_save_and_plot.py`: Save advected and SMAP data interpolated onto 
+TSG data points for each simulation to detect fronts.
+  - `sim_Oleander_BiggerDomain_all_step4_method_detect_fronts_save.py`: Code to detect and quantify fronts. 
+  - `sim_Oleander_BiggerDomain_all_step5_plot_fronts_figures_examples_figurePAPER_Fig3.py`: create Figure 3.
+  - `sim_Oleander_BiggerDomain_all_step6_plot_fronts_check_intensity.py`: check relative intensity
+  - `sim_Oleander_BiggerDomain_all_step6_plot_fronts_statistics_abs_int_figurePAPER_Fig4.py`: create Figure 4.
+  - `sim_Oleander_BiggerDomain_all_step6_plot_fronts_statistics_abs_int_figurePAPER_rev_Fig5.py`: create Figure 5.
 
 - `analysis_weekly_simulations/`:  codes for the analysis of the weekly set of simulations.
   
