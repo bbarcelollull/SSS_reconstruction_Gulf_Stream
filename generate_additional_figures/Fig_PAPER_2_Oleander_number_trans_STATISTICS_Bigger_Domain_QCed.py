@@ -25,7 +25,7 @@ that is the file where Oleander transects are isolated
 in a Big Domain including Bermuda and quality controlled.
 This is the final file to use.
 
->> FIGURE FOR PAPER <<
+>> FIGURE FOR PAPER (Figure 2) <<
 
 written by Bàrbara Barceló-Llull on 30-March-2020 at Mallorca.
 """
