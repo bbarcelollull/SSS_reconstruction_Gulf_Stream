@@ -4,7 +4,7 @@ This repository contains the codes used to conduct the study of Barceló-Llull, 
 
 ## Description of the repository:
 
-- `simulation_notebooks/`:  contains the codes to perform the backward simulations.
+- `simulation_notebooks/`:  contains the codes to perform the Lagrangian simulations.
   
   - `sim_Oleander_backward_altimetry_Bigger_Domain_dt.ipynb`: Oleander simulations.
   - `sim_weekly_backward_altimetry_Bigger_Domain_nrt_dates_corrected.ipynb`: weekly simulations for the dates in which only near-real-time altimetry data was available.
