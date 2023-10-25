@@ -42,5 +42,6 @@ The dataset to accompany "Lagrangian reconstruction to extract small-scale salin
   - `Fig_PAPER_1_sim_Oleander_BiggerDomain_1day_alt_comp_with_TSG_resampling_rev1_plot.py`: Create Figure 1
   - `Fig_PAPER_2_Oleander_number_trans_STATISTICS_Bigger_Domain_QCed.py`: Create Figure 2
  
-In each folder are included the toolboxes used for the respective codes: `sim_toolbox.py`, `sss_toolbox.py` and `Tools_OI.py`.
+- `toolboxes/`:  Contains `sim_toolbox.py`, `sss_toolbox.py` and `Tools_OI.py`.
+
 
