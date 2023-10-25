@@ -33,8 +33,8 @@ This repository contains the codes used to conduct the study of Barceló-Llull, 
 
 - `analysis_test_Oscar_currents/`:  codes for the analysis of the simulation done with Oscar currents (it is a test).
 
-  - `sim_Oleander_BiggerDomain_1day_Osc_tag_SSS_to_particles.py`:
-  - `sim_Oleander_BiggerDomain_1day_Osc_comp_with_TSG.py`:
+  - `sim_Oleander_BiggerDomain_1day_Osc_tag_SSS_to_particles.py`: Tag SSS from SMAP to each particle at T0 of the backward simulation.
+  - `sim_Oleander_BiggerDomain_1day_Osc_comp_with_TSG.py`: Code to open the simulation file with SSS tagged and compare with TSG data. 
 
 - `generate_additional_figures/`:  codes to create figures 1 and 2 of the paper.
   
