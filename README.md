@@ -12,9 +12,32 @@ This repository contains the codes used to conduct the study of Barceló-Llull, 
   - `sim_Oleander_backward_Oscar_check_bigger_domain_1day.ipynb`: test of a simulation using Oscar currents.
     
 - `analysis_Oleander_simulations/`:  codes for the analysis of the Oleander set of simulations.
+  
+  - `sim_Oleander_BiggerDomain_all_step1_tag_SSS_to_particles_final.py`:
+  - ``:
+  - ``:
+  - ``:
+  - ``:
+  - ``:
+  - ``:
+  - ``:
 
 - `analysis_weekly_simulations/`:  codes for the analysis of the weekly set of simulations.
+  
+  - ``:
+  - ``:
+  - ``:
+  - ``:
+  - ``:
+  - ``:
 
 - `analysis_test_Oscar_currents/`:  codes for the analysis of the simulation done with Oscar currents (it is a test).
 
+  - ``:
+  - ``:
+
 - `generate_additional_figures/`:  codes to create figures 1 and 2 of the paper.
+  
+  - `Fig_PAPER_1_sim_Oleander_BiggerDomain_1day_alt_comp_with_TSG_resampling_rev1_save.py`: resample and smooth S_adv and save data in a file
+  - `Fig_PAPER_1_sim_Oleander_BiggerDomain_1day_alt_comp_with_TSG_resampling_rev1_plot.py`: create Figure 1
+  - `Fig_PAPER_2_Oleander_number_trans_STATISTICS_Bigger_Domain_QCed.py`: Figure 2
