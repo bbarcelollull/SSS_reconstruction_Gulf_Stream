@@ -28,8 +28,8 @@ The dataset to accompany "Lagrangian reconstruction to extract small-scale salin
   - `sim_weekly_step1_find_release_dates_corrected.py`: Open SMAP data and select weekly dates to release massive 7-day backward simulations.
   - `sim_weekly_step2_tag_SSS_to_particles_Bigger_Domain.py`: Tag SSS from SMAP to each particle at T0 of the backward simulation.
   - `sim_weekly_step3_maps_bin_std_Figpaper_6_8.py`: Create figures 6 and 8. 
-  - `sim_weekly_step4_SSS_SMAP_plot_gradient_Bigger_Domain_Figpaper_6_8.py`:
-  - `sim_weekly_step5_compare_with_MODEL_Figures_rev.py`:
+  - `sim_weekly_step4_SSS_SMAP_plot_gradient_Bigger_Domain_Figpaper_7_9.py`: Create figures 7 and 9. 
+  - `sim_weekly_step5_compare_with_MODEL_Figures_rev_10.py`: Create figure 10.
 
 - `analysis_test_Oscar_currents/`:  Codes for the analysis of the simulation done with Oscar currents (it is a test).
 
